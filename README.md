@@ -83,5 +83,5 @@ public class nabils {
   <a href="https://www.instagram.com/nabilss24/"><img alt="Instagram" title="Nabil's Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  </p>
  <p align="center">
-  <a href="nabilsahsadacode@gmail.com"><img alt="Gmail" title="Nabil Sahsada Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:nabilsahsadacode@gmail.com"><img alt="Gmail" title="Nabil Sahsada Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
