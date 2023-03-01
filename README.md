@@ -10,7 +10,7 @@
   <li>🌱 I’m currently learning Web Development, Java, Js, Node.js, Laravel, Vue, C#</li>
   <li>💼 I'm a Student at SMK Telkom Malang In Grade XI.</li>
   <li>📑 Certificates? Coming soon i will create gdrive</li>
-  <li>🧐 Portfolio Website (Vercel)= https://nabils24-portofolio.vercel.app/</li>
+  <li>🧐 Portfolio Website (HTML5)= [Link](https://nabils24-portofolio.netlify.app)</li>
 </ul>
 
 ## 🆒 javascript
