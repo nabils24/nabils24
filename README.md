@@ -2,8 +2,6 @@
   <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30">Welcome to <a href="https://github.com/nabils24">Nabil Sahsada Suratno</a> Profile<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30"></h1>
 </p>
 
-
-
 <ul>
   <li>👋 Hi!</li>
   <li>❤️ I love Learning.</li>
