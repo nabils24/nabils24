@@ -57,10 +57,6 @@ public class nabils {
 <img src="https://github-readme-stats.vercel.app/api?username=nabils24&theme=react&show_icons=true)">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=nabils24&theme=react"/>
 |---|---|
 
-### ♥️ Contribution Graph 
-### Hey! Sometimes this Graph is not showing Don't be surprised if there are few contributions! Now I'm focusing on private projects
-[![nabils24 github activity graph](https://activity-graph.herokuapp.com/graph?username=nabils24&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ### Skills
 <ul>
   <li>Java</li>
