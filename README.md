@@ -6,7 +6,7 @@
   <li>👋 Hi!</li>
   <li>❤️ I love Learning.</li>
   <li>🌱 I’m currently learning Web Development, Java, Js, Node.js, Laravel, Vue, C#</li>
-  <li>💼 I'm a Student at SMK Telkom Malang In Grade XII.</li>
+  <li>💼 I'm a Freelance.</li>
   <li>📑 Certificates? Coming soon i will create gdrive</li>
   <li>🧐 Portfolio Website (HTML5) = https://nabils24-portofolio.netlify.app </li>
    <li>🧐 Portfolio Website (JS) = https://nabils24.vercel.app </li>
