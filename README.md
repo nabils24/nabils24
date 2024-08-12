@@ -10,7 +10,7 @@
   <li>📑 Certificates? Coming soon i will create gdrive</li>
   <li>🧐 Portfolio Website (HTML5) = https://nabils24-portofolio.netlify.app </li>
    <li>🧐 Portfolio Website (JS) = https://nabils24.vercel.app </li>
-  <li>🧐 Linkedin Website (JS) = https://www.linkedin.com/in/nabils24/ </li>
+  <li>🧐 Linkedin Website = https://www.linkedin.com/in/nabils24/ </li>
 </ul>
 
 ## 🆒 javascript
