@@ -27,28 +27,29 @@ const Nabil = {
 ```
 ## 🆒 java
 ```java
-public class nabils {
-    int age;
-    String name;
+public class Nabils {
+    private int age;
+    private String name;
 
-    public void me(int age, String name) {
+    public Nabils(int age, String name) {
         this.age = age;
         this.name = name;
     }
-    public void whome() {
-        System.out.println("Im, " + name);
-        System.out.println("Age, " + age);
-        System.out.println("tech: {\n"
-                + "      frontend: [\"HTML\", \"CSS\", \"JS\", \"Vuetify\", \"React\", \"Vue\", \"Tailwind\"],\n"
-                + "      backend: [\"Java\", \"PHP\", \"JS\", \"SQL\",\"Node\",\"Laravel\"],\n"
-                + "  }");
+
+    public void whoAmI() {
+        System.out.println("I'm " + name);
+        System.out.println("Age: " + age);
+        System.out.println("Tech Stack:");
+        System.out.println("  Frontend:  [HTML, CSS, JS, Vuetify, React, Vue, Tailwind]");
+        System.out.println("  Backend:   [Java, PHP, JS, SQL, Node, Laravel]");
     }
+
     public static void main(String[] args) {
-        nabils nabil = new nabils();
-        nabil.me(17, "Nabil Sahsada Suratno");
-        nabil.whome();
+        Nabils nabil = new Nabils(17, "Nabil Sahsada Suratno");
+        nabil.whoAmI();
     }
 }
+
 ```
 
 
